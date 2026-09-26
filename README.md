@@ -61,3 +61,7 @@ By default everything is **simulated in memory**. Turn on **Write changes to the
 - `src/view.ts`: builds the scene from a layout; visibility, stones, labels.
 - `src/timebar.ts`: the time bar.
 - `src/main.ts`: renderer, camera, interaction, replay, settings.
+
+## License
+
+[MIT](LICENSE) © 2026 Ricci Reyes
